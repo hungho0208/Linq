@@ -1,0 +1,2 @@
+1. 下載LinqPad	
+2. 匯入RCTPContractor.bacpac 到LocalDB

@@ -1,0 +1,12 @@
+D:\鴻才\專案\Linq\Linq\DBModel\bin\Debug\netcoreapp3.1\DBModel.deps.json
+D:\鴻才\專案\Linq\Linq\DBModel\bin\Debug\netcoreapp3.1\DBModel.runtimeconfig.json
+D:\鴻才\專案\Linq\Linq\DBModel\bin\Debug\netcoreapp3.1\DBModel.runtimeconfig.dev.json
+D:\鴻才\專案\Linq\Linq\DBModel\bin\Debug\netcoreapp3.1\DBModel.dll
+D:\鴻才\專案\Linq\Linq\DBModel\bin\Debug\netcoreapp3.1\DBModel.pdb
+D:\鴻才\專案\Linq\Linq\DBModel\obj\Debug\netcoreapp3.1\DBModel.csprojAssemblyReference.cache
+D:\鴻才\專案\Linq\Linq\DBModel\obj\Debug\netcoreapp3.1\DBModel.AssemblyInfoInputs.cache
+D:\鴻才\專案\Linq\Linq\DBModel\obj\Debug\netcoreapp3.1\DBModel.AssemblyInfo.cs
+D:\鴻才\專案\Linq\Linq\DBModel\obj\Debug\netcoreapp3.1\DBModel.csproj.CoreCompileInputs.cache
+D:\鴻才\專案\Linq\Linq\DBModel\obj\Debug\netcoreapp3.1\DBModel.dll
+D:\鴻才\專案\Linq\Linq\DBModel\obj\Debug\netcoreapp3.1\DBModel.pdb
+D:\鴻才\專案\Linq\Linq\DBModel\obj\Debug\netcoreapp3.1\DBModel.genruntimeconfig.cache
